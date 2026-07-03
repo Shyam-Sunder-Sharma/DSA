@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
