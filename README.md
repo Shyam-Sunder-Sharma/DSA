@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0875-koko-eating-bananas) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -120,4 +121,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
