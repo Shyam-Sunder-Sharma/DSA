@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0796-rotate-string) |
