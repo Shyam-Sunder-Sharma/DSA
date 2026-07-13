@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0205-isomorphic-strings](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0205-isomorphic-strings) |
 | [0796-rotate-string](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0796-rotate-string) |
 ## Dynamic Programming
 |  |
