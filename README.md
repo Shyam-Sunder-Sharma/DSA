@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
