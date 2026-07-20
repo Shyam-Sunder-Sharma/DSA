@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0875-koko-eating-bananas) |
+| [1260-shift-2d-grid](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0073-set-matrix-zeroes) |
+| [1260-shift-2d-grid](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/1260-shift-2d-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
