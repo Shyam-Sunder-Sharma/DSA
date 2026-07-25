@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3536-maximum-product-of-two-digits](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
