@@ -1,31 +1,43 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
 
+        // Always binary search on the smaller array
+        if (nums1.length > nums2.length) {
+            return findMedianSortedArrays(nums2, nums1);
+        }
+
         int m = nums1.length;
         int n = nums2.length;
-        int total = m + n;
 
-        int i = 0;
-        int j = 0;
+        int left = 0;
+        int right = m;
 
-        int prev = 0;
-        int curr = 0;
+        while (left <= right) {
 
-        for (int count = 0; count <= total / 2; count++) {
+            int cut1 = (left + right) / 2;
+            int cut2 = (m + n + 1) / 2 - cut1;
 
-            prev = curr;
+            int l1 = (cut1 == 0) ? Integer.MIN_VALUE : nums1[cut1 - 1];
+            int r1 = (cut1 == m) ? Integer.MAX_VALUE : nums1[cut1];
 
-            if (i < m && (j >= n || nums1[i] <= nums2[j])) {
-                curr = nums1[i++];
+            int l2 = (cut2 == 0) ? Integer.MIN_VALUE : nums2[cut2 - 1];
+            int r2 = (cut2 == n) ? Integer.MAX_VALUE : nums2[cut2];
+
+            if (l1 <= r2 && l2 <= r1) {
+
+                if ((m + n) % 2 == 0) {
+                    return (Math.max(l1, l2) + Math.min(r1, r2)) / 2.0;
+                } else {
+                    return Math.max(l1, l2);
+                }
+
+            } else if (l1 > r2) {
+                right = cut1 - 1;
             } else {
-                curr = nums2[j++];
+                left = cut1 + 1;
             }
         }
 
-        if (total % 2 == 0) {
-            return (prev + curr) / 2.0;
-        }
-
-        return curr;
+        return 0;
     }
 }
