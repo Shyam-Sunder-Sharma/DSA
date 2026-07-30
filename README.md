@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0410-split-array-largest-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1331-rank-transform-of-an-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/1331-rank-transform-of-an-array) |
