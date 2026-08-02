@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0509-fibonacci-number) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shyam-Sunder-Sharma/DSA/tree/master/0162-find-peak-element) |
