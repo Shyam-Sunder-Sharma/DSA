@@ -1,6 +1,6 @@
 class Solution {
     public int[] smallerNumbersThanCurrent(int[] nums) {
-        int []count=new int[102];
+        int []count=new int[101];
         for(int i=0; i<nums.length; i++){
             count[nums[i]]++;
         }
